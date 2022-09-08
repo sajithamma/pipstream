@@ -1,0 +1,29 @@
+{
+  "name": "pipstream",
+  "version": "1.0.24",
+  "description": "PIP Raw library for live streaming",
+  "main": "min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sajith Amma",
+  "license": "ISC",
+  
+  "keywords": [
+    "webrtc",
+    "live",
+    "video calling",
+    "Streaming",
+    "video",
+    "conference",
+    "video streaming",
+    "audio streaming",
+    "media",
+    "broadcast",
+    "stun",
+    "turn",
+    "h264",
+    "multicast",
+    "media server"
+  ]
+}
