@@ -213,6 +213,9 @@ $P.getIncomingStreams(); // Array of Objects
 $P.getPipStreamObject();
 ```
 
-## About Volcano
+## WebRTC backend
+AgoraRTC is used to support the live streaming service. For production integration, create an agora account and get API key and access token. 
 
-Volcano is a live streaming video platform for real life contents. Visit: https://volcano.live
+https://www.agora.io 
+
+
